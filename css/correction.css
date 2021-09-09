@@ -1,0 +1,29 @@
+/*le reset de Eric meyer à ajouter*/
+body{
+    background-color: pink;
+}
+#conteneur{
+    width: 1000px;
+    margin:0 auto;
+    background-color: white;
+}
+header{
+    background-color: orange;
+    height: 250px;
+    text-align: center;
+}
+footer{
+    background-color: red;
+    height: 300px;
+    text-align: center;
+}
+.img-1{ /*à inserer dans toutes les sous-sections (img et les paragraphes*/
+    background-color: grey;
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+
+
+
+

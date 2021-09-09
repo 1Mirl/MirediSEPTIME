@@ -1,3 +1,88 @@
 body{
     background-color: pink;
 }
+div{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    background-color: #fdf6e6;
+}
+header{
+    background-color: #fea500;
+    width: 900px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+.texte-1{
+    position: absolute;
+    top: 400px;
+    left: 755px;
+    width: 450px;
+}
+.img-2{
+    position: absolute;
+    top: auto;
+    left: 760px;
+    width: 400px;
+    margin: auto;
+}
+.texte-2{
+    position: absolute;
+    top: 745px;
+    left: 260px;
+    width: 500px;
+    height: 455px;
+    margin: auto;
+}
+.img-3{
+    position: absolute;
+    top: 1200px;
+    left: 260px;
+    margin: auto;
+}
+.texte-3{
+    position: absolute;
+    top: 1300px;
+    left: 760px;
+    width: 500px;
+}
+.texte-4{
+    position: absolute;
+    top: 1700px;
+    left: 260px;
+    height: 500px;
+    width: 500px;
+}
+.img-4{
+    position: absolute;
+    top: 1700px;
+    left: 760px;
+    width: 500px;
+}
+.texte-5{
+    position: absolute;
+    top: 2200px;
+    left: 760px;
+    width: 500px;
+    height: 500px;
+
+}
+.img-5{
+    position: absolute;
+    top: 2200px;
+    left: 260px;
+    width: 500px;
+}
+footer{
+    background-color: #ff4500;
+    text-align: center;
+    width: 1000px;
+    height: auto;
+    position: absolute;
+    top: 2700px;
+    left: 260px;
+}
+.clear{
+    clear: both;
+}
