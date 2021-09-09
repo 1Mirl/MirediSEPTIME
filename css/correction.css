@@ -22,6 +22,8 @@ footer{
     width: 500px;
     height: 500px;
     float: left;
+    /*Ici, c'est pour positionner l'image*/
+    background-position: center;
 }
 
 

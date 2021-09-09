@@ -6,6 +6,7 @@ div{
     height: auto;
     margin: auto;
     background-color: #fdf6e6;
+    font-family: 'Kaisei HarunoUmi', serif;
 }
 header{
     background-color: #fea500;
@@ -34,6 +35,8 @@ header{
     width: 500px;
     height: 455px;
     margin: auto;
+    padding-top: 100px;
+    box-sizing: border-box;
 }
 .img-3{
     position: absolute;
@@ -46,6 +49,8 @@ header{
     top: 1300px;
     left: 760px;
     width: 500px;
+    padding-top: 100px;
+    box-sizing: border-box;
 }
 .texte-4{
     position: absolute;
@@ -53,6 +58,8 @@ header{
     left: 260px;
     height: 500px;
     width: 500px;
+    padding-top: 100px;
+    box-sizing: border-box;
 }
 .img-4{
     position: absolute;
@@ -66,7 +73,8 @@ header{
     left: 760px;
     width: 500px;
     height: 500px;
-
+    padding-top: 100px;
+    box-sizing: border-box;
 }
 .img-5{
     position: absolute;
